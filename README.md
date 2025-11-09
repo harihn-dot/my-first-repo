@@ -1,1 +1,1 @@
-welcome to Git
+Welcome to my first GitHub repository!
